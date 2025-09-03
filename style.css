@@ -1,0 +1,11 @@
+img {
+    width: 600px;
+    height: 300px;
+}
+
+body {
+    text-align: center;
+    font-family: "Sans Serif";
+    background: rgb(118, 189, 118);
+    color: rgb(8, 46, 8);
+}
